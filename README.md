@@ -1,4 +1,4 @@
-# Flutter ToDo Application
+# Flutter ToDo Application - TaskTick
 
 ## Overview
 
